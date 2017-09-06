@@ -1,0 +1,10 @@
+{
+    "name": "administrator/hd852",
+    "authors": [
+        {
+            "name": "zhang",
+            "email": "zhang@qq.com"
+        }
+    ],
+    "require": {}
+}
