@@ -6,5 +6,16 @@
             "email": "zhang@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"app\\":"app/",
+    		"core\\":"core/",
+    		"system\\":"system"
+    	},
+    	"files":[
+    		"system/functions.php",
+    		"system/config/database.php"
+    	]
+    }
 }
